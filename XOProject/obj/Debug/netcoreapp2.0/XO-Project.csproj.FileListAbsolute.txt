@@ -1,0 +1,11 @@
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\bin\Debug\netcoreapp2.0\XO-Project.deps.json
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\bin\Debug\netcoreapp2.0\XO-Project.runtimeconfig.json
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\bin\Debug\netcoreapp2.0\XO-Project.runtimeconfig.dev.json
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\bin\Debug\netcoreapp2.0\XO-Project.dll
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\bin\Debug\netcoreapp2.0\XO-Project.pdb
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\obj\Debug\netcoreapp2.0\XO-Project.csproj.CoreCompileInputs.cache
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\obj\Debug\netcoreapp2.0\XO-Project.AssemblyInfoInputs.cache
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\obj\Debug\netcoreapp2.0\XO-Project.AssemblyInfo.cs
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\obj\Debug\netcoreapp2.0\XO-Project.dll
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\obj\Debug\netcoreapp2.0\XO-Project.pdb
+C:\CrossOver\CrossExchange\CrossExchange\XOProject\obj\Debug\netcoreapp2.0\XO-Project.csprojAssemblyReference.cache

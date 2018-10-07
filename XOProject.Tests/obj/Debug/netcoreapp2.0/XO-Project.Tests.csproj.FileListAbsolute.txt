@@ -1,0 +1,17 @@
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.Tests.deps.json
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.Tests.runtimeconfig.json
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.Tests.runtimeconfig.dev.json
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.Tests.dll
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.Tests.pdb
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.dll
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\bin\Debug\netcoreapp2.0\XO-Project.pdb
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.csprojAssemblyReference.cache
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.csproj.CoreCompileInputs.cache
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.AssemblyInfoInputs.cache
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.AssemblyInfo.cs
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.csproj.CopyComplete
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.dll
+C:\CrossOver\CrossExchange\CrossExchange\XOProject.Tests\obj\Debug\netcoreapp2.0\XO-Project.Tests.pdb
