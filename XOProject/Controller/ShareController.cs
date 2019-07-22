@@ -15,7 +15,7 @@ namespace XOProject.Controller
         {
             _shareRepository = shareRepository;
         }
-
+        //this 
         [HttpPut("{symbol}")]
         public async Task UpdateLastPrice([FromRoute]string symbol)
         {
