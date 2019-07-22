@@ -11,6 +11,7 @@ namespace XOProject.Tests
     public class ShareControllerTests
     {
         private readonly Mock<IShareRepository> _shareRepositoryMock = new Mock<IShareRepository>();
+        // trial
 
         private readonly ShareController _shareController;
 

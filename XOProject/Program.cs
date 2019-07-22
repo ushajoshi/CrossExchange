@@ -14,5 +14,6 @@ namespace XOProject
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+        //this is a trial test
     }
 }
